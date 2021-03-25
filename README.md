@@ -1,2 +1,0 @@
-# autotraderobotgold
-GitHub Pages
